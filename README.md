@@ -49,6 +49,11 @@ Over the past few years, I’ve developed full-stack applications using PHP, Jav
     </p>
 </details>
 
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Mounir-Merhebi/Mounir-Merhebi/blob/output/github-contribution-grid-snake.svg)
+
+
 <br />
 
 <details>
