@@ -16,7 +16,7 @@
 
 *📚 Outside of code: I enjoy philosophy, deep reading, and exploring how ideas shape the world
 
-*🎮 Proud PC gamer—my IDE runs hot, but so does my GPU
+*🎮 Proud PC gamer my IDE runs hot, but so does my GPU
 
 ### 🔗 Connect With Me
 
@@ -30,7 +30,7 @@
 
 ### ✨ About me
 
-As a Computer Science graduate from the Lebanese International University, I’m a deeply curious and intellectually driven developer passionate about building meaningful software and continuously expanding my technical horizon. My journey has been a blend of coding, teaching, and creating—driven by a love for problem-solving and knowledge stacking.
+As a Computer Science graduate from the Lebanese International University, I’m a deeply curious and intellectually driven developer passionate about building meaningful software and continuously expanding my technical horizon. My journey has been a blend of coding, teaching, and creating driven by a love for problem-solving and knowledge stacking.
 
 Over the past few years, I’ve developed full-stack applications using PHP, JavaScript, Python, and MySQL, and explored the world of machine learning with projects like a movie success prediction system. As a coding educator at Clevered and BrightChamps, I’ve guided students in app development, AI, and algorithmic thinking, transforming complex concepts into engaging learning experiences.
 
